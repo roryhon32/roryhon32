@@ -5,7 +5,7 @@
 Atuo na interseção entre **Dados, Controladoria e Tecnologia**, construindo pipelines, dashboards gerenciais e automações que transformam dados financeiros e operacionais em decisões rápidas e confiáveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizassuncaoo)
-[![Portfólio](https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliolg.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://roryhon32.github.io/portifolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.assuncao27@gmail.com)
 
 ---
